@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Roberto Araujo 👋
 
-<!--
-**JRCan2026/JRCan2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a modeler and data analyst.
 
-Here are some ideas to get you started:
+I am interested in:
+- Statistical data analysis
+- Machine learning
+- Optimization techniques
+- Physics and math
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming languages:
+- Python
+- Matlab
+- R and Rstudio
+

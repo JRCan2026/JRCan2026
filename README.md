@@ -1,16 +1,15 @@
 ## Hi! my name is Roberto Araujo 👋
 
-I am a computational scientist with a background in Physics, Scientific Computing and Water Science. I have experience in statistical analysis, optimization and simulation of complex physical and environmental processes.
+I am a computational scientist with a background in Physics, Scientific Computing, and Water Science. My work focuses on mathematical modeling, statistical analysis, optimization, and the simulation of complex physical and environmental systems.
 
-I hold a Bachelor's degree in Physics and a Master's degree in Water Science. Through my academic training, I have developed strong foundations in mathematics, physics, statistics, and scientific programming, which I apply to data-driven modeling, uncertainty analysis, and computational simulation.
+I hold a Bachelor's degree in Physics and a Master's degree in Water Science. My academic training has provided me with a strong foundation in mathematics, statistics, and scientific programming, which I apply to developing computational models, analyzing uncertainty, and supporting data-driven decision-making.
 
 **Areas of expertise**:
-- Stochastic and deterministic modeling
-- Statistical analysis 
+- Mathematical and statistical modeling
 - Scientific computing
-- Operation research
+- Operations research and optimization
 - Machine learning
-- Hydrological and geo-spatial modeling
+- Hydrological and geospatial modeling
 
 **Programming languages**:
 - Python

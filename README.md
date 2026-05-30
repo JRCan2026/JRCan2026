@@ -1,16 +1,16 @@
 ## Hi, I'm Roberto Araujo 👋
 
-I am a specialist in statistical modeling, optimization and data analysis, with a strong background in Physics and Scientific Computing. I hold a bachelor's degree in Physics and Master's degree in Water Science, where I specialize in simulating real-world hydrological systems.
+I am a modeler and data analyst with a background in Physics, Scientific Computing and Water Science. I have experience in statistical analysis, optimization and simulation of complex physical and environmental processes.
 
-My academic training has provided me with solid foundations in physics, mathematics, and scientific computing, which I apply to statistical simulations and analysis, optimization and data-driven modeling.
+I hold a Bachelor's degree in Physics and a Master's degree in Water Science. Through my academic training, I have developed strong foundations in mathematics, physics, statistics, and scientific programming, which I apply to data-driven modeling, uncertainty analysis, and computational simulation.
 
-**I am interested in**:
+**Areas of expertise**:
 - Stochastic and deterministic modeling
 - Statistical analysis 
-- Scientific programming
+- Scientific computing
+- Optimization and decision-support models
 - Machine learning
-- Optimization problems
-- Simulation of physical systems
+- Hydrological and environmental modeling
 
 **Programming languages**:
 - Python

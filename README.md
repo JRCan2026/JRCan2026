@@ -15,4 +15,5 @@ I hold a Bachelor's degree in Physics and a Master's degree in Water Science. My
 - Python
 - Matlab
 - R and Rstudio
+- QGIS and ArcGIS
 

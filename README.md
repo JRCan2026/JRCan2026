@@ -16,6 +16,6 @@ I hold a Bachelor's degree in Physics and a Master's degree in Water Science. My
 - Matlab
 - R and Rstudio
 
-**Data visualization***:
+**Data visualization**:
 - QGIS and ArcGIS
 

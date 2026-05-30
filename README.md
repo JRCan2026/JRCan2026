@@ -1,4 +1,4 @@
-## Hi, my name is Roberto Araujo 👋
+## Hi! my name is Roberto Araujo 👋
 
 I am a modeler and data analyst with a background in Physics, Scientific Computing and Water Science. I have experience in statistical analysis, optimization and simulation of complex physical and environmental processes.
 

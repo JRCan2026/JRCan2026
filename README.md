@@ -8,9 +8,9 @@ I hold a Bachelor's degree in Physics and a Master's degree in Water Science. Th
 - Stochastic and deterministic modeling
 - Statistical analysis 
 - Scientific computing
-- Optimization and decision-support models
+- Operation research
 - Machine learning
-- Hydrological and environmental modeling
+- Hydrological and geo-spatial modeling
 
 **Programming languages**:
 - Python

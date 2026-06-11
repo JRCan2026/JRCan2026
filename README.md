@@ -2,7 +2,7 @@
 
 I am a modeller and data scientist with a background in Physics, Scientific Computing, and Water Science. My work focuses on mathematical modeling, statistical analysis, optimization, and the simulation of complex physical and environmental systems.
 
-I hold a Bachelor's degree in Physics and a Master's degree in Water Science. My academic training has provided me with a strong foundation in mathematics, statistics, and scientific programming, which I apply to developing computational models, quantifying uncertainty, and supporting data-driven decision-making.
+I hold a Bachelor's degree in Physics and a Master's degree in Water Science. My academic training has provided me with a strong foundation in mathematics, statistics, and scientific programming, which I apply to developing computational models, quantifying uncertainty, and supporting data-driven decision-making through simulations.
 
 **Areas of expertise**:
 - Mathematical and statistical modeling
